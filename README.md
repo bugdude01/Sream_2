@@ -1,2 +1,2 @@
-# Sream_2
+# Stream_2
 Final Project for Stream 2
